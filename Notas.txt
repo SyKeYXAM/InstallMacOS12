@@ -4,7 +4,7 @@
 --- Instalación ------------------
 ----------------------------------
 
-Para instalar Mac OS 12 Monterey seguir las indicaciones del vídeo: https://www.youtube.com/sykeyxam
+Para instalar Mac OS 12 Monterey seguir las indicaciones del vídeo que hay en: https://www.youtube.com/sykeyxam
 
 python3 Iniciar.py
 
@@ -16,7 +16,7 @@ python3 Iniciar.py
 ---------------------------
 
 sha256sum BaseSystem.img
-8c97cf8b5253e9fdbd9452c52fdf0291cbe038544b4db1680b941c871e40ccae  BaseSystem.img
+1601ea631ec745b3eaa59ebcf93e091e143fec05208bfb18dec478a8d0d08aa5  BaseSystem.dmg
 
 sha256sum OpenCore.qcow2
 76fe3521a662c3fd24a031d0d9690b807966bbeecca451989ccdc992d6651773  OpenCore.qcow2
