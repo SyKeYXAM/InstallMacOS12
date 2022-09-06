@@ -1,11 +1,11 @@
-# InstallMacOS11
+# InstallMacOS12
 Instalación de MacOS 12 Monterey en la máquina virtual QEMU
 
 Antes de proceder a la instalación es necesario descargar el fichero BaseSystem.dmg de la versión MacOS Monterey 12
 
 Ejecutar el fichero Iniciar.py
 
-Vídeo explicativo de la instalación: (Pendiente - Es de la versión 11) - https://youtu.be/Nt9ZzpDiRvU
+Vídeo explicativo de la instalación: https://youtu.be/wlG6fomEwYs
 
 Proyectos utilizados para crear este proyecto:
 https://github.com/foxlet/macOS-Simple-KVM
